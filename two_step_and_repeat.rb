@@ -52,14 +52,14 @@ def break_dance
     steps += 1
     if steps % 2 == 0
       puts "Left"
-      sleep(0.5)
-      elsif steps = 6
-      break
     else 
       puts "Right"
+    end
+      sleep(0.5)
+      if steps = 6
+      break
     
 end
-sleep(0.5)
 end
 end
 
