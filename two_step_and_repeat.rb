@@ -44,6 +44,7 @@ def how_many_steps?
 end
 sleep(0.5)
 end
+end
 
 def break_dance
   steps = 0
@@ -57,6 +58,8 @@ def break_dance
     else 
       puts "Right"
     
+end
+sleep(0.5)
 end
 end
 
