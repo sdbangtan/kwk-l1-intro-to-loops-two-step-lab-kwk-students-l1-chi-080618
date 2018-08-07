@@ -56,7 +56,7 @@ def break_dance
       break
     else 
       puts "Right"
-      sleep(0.5)
+    
 end
 end
 
