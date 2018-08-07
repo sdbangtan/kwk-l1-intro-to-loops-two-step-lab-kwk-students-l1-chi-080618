@@ -62,5 +62,3 @@ def break_dance
 end
 end
 end
-
-first_steps
